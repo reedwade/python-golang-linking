@@ -26,3 +26,8 @@ time ./makefiles_plain_python.py
 time ./makefiles_go.py 
 time ./makefiles_go_faster.py 
 ```
+
+----
+
+Recipes for calling Go functions from Python.
+
